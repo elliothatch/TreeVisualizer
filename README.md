@@ -5,7 +5,7 @@ A University assignment with [Samuel Davisdson](https://github.com/samdamana) th
 
 Build
 -----
-* linux: run `build.sh`
+* osx/linux: run `build.sh`
 * windows: run `build.bat`
 
 Run the generated `TreeVisualizer.jar` file
